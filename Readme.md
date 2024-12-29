@@ -30,6 +30,3 @@ pip install pytube
 
 
 
-
-
-يمكن أن تصدر عن ChatGPT بعض ال
